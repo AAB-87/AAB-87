@@ -9,8 +9,8 @@ __[Резюме QA engineer](https://samara.hh.ru/resume/53452cb3ff08cb08590039e
 # Привет! Меня зовут Андрей, я Инженер по тестированию ПО.
 * __Мне нравится решать логические задачи и находить баги.__
 * __Увлекаюсь программированием, интересуюсь нововведениями в сфере IT.__
-* __Образование высшее техническое [(диплом)](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/Diplom.pdf).__
-* __Прошёл профессиональную переподготовку в Нетологии по специальности [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle) и получил [диплом о профессиональной переподгтовке](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/diploma.pdf).__
+* __Образование высшее техническое [(диплом)](https://github.com/AAB-87/AAB-87/blob/master/Certificates/Diplom.pdf).__
+* __Прошёл профессиональную переподготовку в Нетологии по специальности [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle) и получил [диплом о профессиональной переподгтовке](https://github.com/AAB-87/AAB-87/blob/master/Certificates/diploma.pdf).__
 * __Совершенствуюсь в тестировании web-приложений, desktop-приложений и  mobile-приложений, а также в написании автотестов на Java и JavaScript.__
 * __Изучаю Python.__
 * __В свободное время читаю книги, занимаюсь спортом, и совершенствованием своих навыков тестирования.__
@@ -19,8 +19,8 @@ __[Резюме QA engineer](https://samara.hh.ru/resume/53452cb3ff08cb08590039e
 
 ## Тестовая документация:
 * __Тестирование требований, [уточнение требований](https://docs.google.com/document/d/1BiKJhAd1BOFzYaszWn6zjj_VdIRDqtY-LM7HBtaKv2M/edit)__
-* __Тест-дизайн, [чек-листы](https://github.com/AAB-87/AndreyAbrekov/blob/master/Test_documentation/Check_list.md), [тест-кейсы](https://github.com/AAB-87/AndreyAbrekov/blob/master/Test_documentation/Cases.md)__
-* __[Bug-Reports](https://github.com/AAB-87/AndreyAbrekov/tree/master/Test_documentation)__
+* __Тест-дизайн, [чек-листы](https://github.com/AAB-87/AAB-87/blob/master/Test_documentation/Check_list.md), [тест-кейсы](https://github.com/AAB-87/AAB-87/blob/master/Test_documentation/Cases.md)__
+* __[Bug-Reports](https://github.com/AAB-87/AAB-87/blob/master/Test_documentation/Bug_report.md)__
 
 
 ## Языки программирования и инструменты:
@@ -103,7 +103,7 @@ __[Резюме QA engineer](https://samara.hh.ru/resume/53452cb3ff08cb08590039e
 * __["Введение в тестирование безопасности"](https://docs.google.com/document/d/1QzRX8dErxal_OEaL_goLwPi4cCp5cRWEMDP3Oqdf-38/edit)__: Wireshark.
 * __["Инъекции и уязвимости на уровне ОС"](https://docs.google.com/spreadsheets/d/133lGqGPSwTN6F1JXP8Bv_LrugOQb6ggE69V_3jNjDqg/edit#gid=0)__.
 * __["SQL, XSS, Code и другие инъекции"](https://docs.google.com/spreadsheets/d/1fP8c-_m-43SGS5B7gJ3KCW4z-KIl0rqcserSDNP4CHg/edit#gid=0)__.
-* __["Сетевая безопасность"](https://docs.google.com/spreadsheets/d/1fP8c-_m-43SGS5B7gJ3KCW4z-KIl0rqcserSDNP4CHg/edit#gid=0)__.
+* __["Сетевая безопасность"](https://docs.google.com/document/d/1H1piCuKWuWlBe2Ul1Dy7CSkqQeqU0aXWy4pHAqnGBHM/edit)__.
 
 
 ## Дипломный проект:
@@ -113,15 +113,15 @@ __[Резюме QA engineer](https://samara.hh.ru/resume/53452cb3ff08cb08590039e
 
 ## Сертификаты обучающих курсов
 
-* [GIT](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/git.pdf)
-* [Java для тестировщиков](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/java_for_testers.pdf)
-* [Автоматизированное тестирование](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/automated_testing.pdf)
-* [Основы вёрстки сайта](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/site_layout.pdf)
-* [JavaScript для тестировщиков](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/javascript_for_testers.pdf)
-* [Автоматизация тестирования веб-интерфейсов](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/web_interface_testing_automation.pdf)
-* [QA Engineer](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/certificate.pdf)
-* [Тестирование мобильных приложений](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/mobile_app_testing.pdf)
-* [Тестирование производительности](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/performance_testing.pdf)
-* [Тестирование безопасности](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/security_testing.pdf)
-* [Диплом о профессиональной переподготовке](https://github.com/AAB-87/AndreyAbrekov/blob/master/Certificates/diploma.pdf)
+* [GIT](https://github.com/AAB-87/AAB-87/blob/master/Certificates/git.pdf)
+* [Java для тестировщиков](https://github.com/AAB-87/AAB-87/blob/master/Certificates/java_for_testers.pdf)
+* [Автоматизированное тестирование](https://github.com/AAB-87/AAB-87/blob/master/Certificates/automated_testing.pdf)
+* [Основы вёрстки сайта](https://github.com/AAB-87/AAB-87/blob/master/Certificates/site_layout.pdf)
+* [JavaScript для тестировщиков](https://github.com/AAB-87/AAB-87/blob/master/Certificates/javascript_for_testers.pdf)
+* [Автоматизация тестирования веб-интерфейсов](https://github.com/AAB-87/AAB-87/blob/master/Certificates/web_interface_testing_automation.pdf)
+* [QA Engineer](https://github.com/AAB-87/AAB-87/blob/master/Certificates/certificate.pdf)
+* [Тестирование мобильных приложений](https://github.com/AAB-87/AAB-87/blob/master/Certificates/mobile_app_testing.pdf)
+* [Тестирование производительности](https://github.com/AAB-87/AAB-87/blob/master/Certificates/performance_testing.pdf)
+* [Тестирование безопасности](https://github.com/AAB-87/AAB-87/blob/master/Certificates/security_testing.pdf)
+* [Диплом о профессиональной переподготовке](https://github.com/AAB-87/AAB-87/blob/master/Certificates/diploma.pdf)
 
